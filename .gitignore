@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Training output
+outputs/
+
+# Generated at runtime
+.tmp/
+logs/
+
+mise.local.toml
+.mise.local.toml
+
+# Secrets
+.env
+src/gepa/.env
+
+# Jupyter
+.ipynb_checkpoints/
+
